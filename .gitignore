@@ -1,0 +1,3 @@
+#Ignorar Ambiente Python
+__pycache__/
+.venv/
